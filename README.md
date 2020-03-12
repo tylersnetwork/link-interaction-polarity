@@ -30,6 +30,7 @@ If you make use of the dataset in your work, please also cite the following pape
     }
 
 Note the dataset is available in the below signed network dataset repository:
+
 https://github.com/TylersNetwork/awesome-signed-network-datasets
 
 ## Code and paper coming soon!
